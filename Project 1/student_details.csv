@@ -1,0 +1,11 @@
+name,age,department,cgpa,admission_date,gender,year,month,day
+Aliyah,15,Physiology,4.9,2005-04-21,female,2005,4,21
+Rofiah,24,Microbiology,4.89,2007-06-21,female,2007,6,21
+Raheemah,16,Geology,4.88,2009-08-21,female,2009,8,21
+Rahmah,17,Anatomy,4.87,2009-09-21,female,2009,9,21
+Hamdallah,27,chemistry,4.86,2009-08-21,female,2009,8,21
+Zainab,19,Biology,4.85,2008-09-22,female,2008,9,22
+Muslim,18,History,4.84,2009-09-22,male,2009,9,22
+Ashrof,25,Yoruba,4.83,2009-09-22,male,2009,9,22
+Nabil,27,Physics,4.82,2009-09-22,male,2009,9,22
+Musa,15,Agronomy,4.81,2009-09-22,male,2009,9,22
